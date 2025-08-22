@@ -1,3 +1,5 @@
+# Customer Retention Dashboard [Link](https://app.powerbi.com/view?r=eyJrIjoiYzNjYjMxOTgtN2M2Yy00ZTExLTg2NDktYWQwMzhhM2JlZmFhIiwidCI6IjM5NGU4MmNkLTk3NDEtNDIyMi1iNTlmLWFiZTIzZWE3M2FmNiJ9&embedImagePlaceholder=true&pageName=ea596ef2ed557cd2463f)
+
 These are our primary goals.
 Define proper KPIs
 Create a dashboard for the retention manager reflecting the KPIs
@@ -14,6 +16,3 @@ and number of tickets opened in the categories administrative and technical
 ![Screenshot 2024-08-21 122435](https://github.com/user-attachments/assets/d665041d-b47a-4043-97c0-f50567d4f644)
 ![Screenshot 2024-08-21 122459](https://github.com/user-attachments/assets/b023e9c1-858f-448d-a205-d026f45c8280)
 ![Screenshot 2024-08-21 122516](https://github.com/user-attachments/assets/050751bd-2f8e-4cef-a459-567e7e52aa72)
-
-
-The working video ...
